@@ -17,7 +17,10 @@ public class FormularioArma extends Application {
 		
 		GridPane grid = new GridPane();
 		
-
+		
+		// Nueva Version del CODIGO ESTO CUENTA COMO CAMBIO WIII
+		
+		
 		//Nombre ARMA
 		
 			Text txtnombreArma = new Text("Nombre Arma");
